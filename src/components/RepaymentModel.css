@@ -1,0 +1,19 @@
+.RepaymentModel {
+  flex: 3;
+  padding: 50px 25px;
+}
+.RepaymentModel div{
+  display: flex;
+  gap: 50px;
+}
+.payment{
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  height: 20px;
+}
+button{
+  border: 5px;
+}

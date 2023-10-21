@@ -1,0 +1,33 @@
+div form {
+    background: linear-gradient(to bottom, #077567, #f1efec);
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+
+}
+.label{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+div form input{
+    border-radius: 10px;
+    border: none;
+}
+
+div form button{
+    border-radius: 15px;
+    border: none;
+    width: 100px;
+    align-self: center;
+}
+
+
+
+
+
+
+
